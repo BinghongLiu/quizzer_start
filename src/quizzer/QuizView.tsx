@@ -19,7 +19,7 @@ export const QuizView = ({
 
     const switchEdit = () => {
         setEdit(!edit);
-    };
+    }
 
     return (
         <div className="quiz_card">
